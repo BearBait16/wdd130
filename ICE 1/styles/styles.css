@@ -1,0 +1,46 @@
+body
+{
+    background-color: #5ca1d7;
+    text-align: center;
+}
+
+#quote1
+{
+    text-align: center;
+    color: white;
+}
+
+#quote2
+{
+    text-align: center;
+    color: white;
+}
+
+#Just_a_little_guy
+{
+    margin: 0;
+    width: 500px;
+}
+
+ul
+{
+    text-align: center;
+}
+
+h1
+{
+    text-align: center;
+    color: white;
+    
+}
+
+h3
+{
+    text-align: center;
+    color: white;
+}
+
+img 
+{
+    align-items: center;
+}
