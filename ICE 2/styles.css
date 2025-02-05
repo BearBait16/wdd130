@@ -1,0 +1,19 @@
+body
+{
+    background-color: slategrey;
+}
+
+#footer-images
+{
+    align-items: center;
+    text-align: center;
+}
+#footer-images img
+{
+    gap: 500px;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 10px solid darkgray;
+    margin: 100px;
+}
