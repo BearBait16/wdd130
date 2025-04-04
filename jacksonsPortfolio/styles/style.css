@@ -74,8 +74,9 @@ p
     width: 100%;
     height: auto;
 }
-
+/*  */
 /* Main Page */
+/*  */
 #hero-welcome, #hero-wia
 {
     grid-column: 1/6;
@@ -150,4 +151,32 @@ p
 #resume-title
 {
     font-size: 3rem;
+}
+
+/*  */
+/* Theater Experience Page */
+/*  */
+
+h3
+{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+#hero-theater-intro
+{
+    grid-column: 2/5;
+    text-align: center;
+}
+
+#hero-theater-mentions
+{
+    grid-column: 2/5;
+    background-color: var(--accent1-color);
+    font-size: 1.4rem;
+}
+
+#scrooge-img
+{
+    grid-column: 6/7;
 }
